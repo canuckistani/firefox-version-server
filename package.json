@@ -9,6 +9,6 @@
   "author": "Jeff Griffiths (@canuckistani)",
   "license": "MIT",
   "dependencies": {
-    "firefox-versions": "0.0.1"
+    "firefox-versions": "*"
   }
 }
