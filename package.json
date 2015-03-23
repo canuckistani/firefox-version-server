@@ -1,0 +1,14 @@
+{
+  "name": "firefox-versions-server",
+  "version": "0.0.1",
+  "description": "Server for firefox-versions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jeff Griffiths (@canuckistani)",
+  "license": "MIT",
+  "dependencies": {
+    "firefox-versions": "0.0.1"
+  }
+}
